@@ -1,7 +1,7 @@
 version: "2.2"
 services:
   jd-seckill:
-    container_name: jd-seckill
+    container_name: jd-seckill-phone
     restart: always
     image: jd-seckill:latest
     environment:
